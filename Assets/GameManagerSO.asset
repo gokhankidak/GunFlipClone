@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c63c295c0fb955640a7f379137598271, type: 3}
+  m_Name: GameManagerSO
+  m_EditorClassIdentifier: 
+  isDead: 0
+  _deathCanvas: {fileID: 3616138411112532322, guid: cd9190160fe6ec64585e3e1e137523e8, type: 3}

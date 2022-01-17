@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c63c295c0fb955640a7f379137598271
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _deathCanvas: {fileID: 3616138411112532322, guid: cd9190160fe6ec64585e3e1e137523e8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
