@@ -1,0 +1,44 @@
+{
+    "name": "GunControl",
+    "maps": [
+        {
+            "name": "Gun",
+            "id": "5fc6d2e3-55f9-489a-8496-ce0d995b5c2c",
+            "actions": [
+                {
+                    "name": "Fire",
+                    "type": "Button",
+                    "id": "5aa0ec7e-76d6-43e5-828b-76388714f774",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f73f65e9-dbd3-4ec6-bcda-8cb610f20ac3",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c8d1bf08-4813-4b13-9177-3c25824b3ca7",
+                    "path": "<Touchscreen>/primaryTouch/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
